@@ -1,3 +1,5 @@
+![Imagen de animal con dinero💋](https://raw.githubusercontent.com/mhiguitagiron/Aprender-a-sumar-/refs/heads/main/Img/IMG_0088.jpeg)
+
 # **Aprender-a-sumar-**
 
 # *Integrantes*
