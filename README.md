@@ -1,2 +1,8 @@
-# Aprender-a-sumar-
-Vamos a realizar un ejercicio en github, para entender mejor, se va a realizar una suma 
+# **Aprender-a-sumar-**
+
+# *Integrantes*
+## **Mariana Higuita**
+### Descripcion
+>soy un joven estudiante de ingenieria industrial de tercer semestre que no tiene carnet
+## no tengo pareja 
+>no existe esta persona
